@@ -1,6 +1,3 @@
-Here’s a detailed, organized guide for setting up a Django project with MongoDB and necessary libraries:
-
----
 
 ### 1. **Python Installation**
 Ensure Python is installed on your system before starting the project.
